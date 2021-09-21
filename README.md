@@ -9,7 +9,7 @@ I graduated as a Computer Science major from Columbia University in 2019. I have
 
 <!-- - 🔭 I’m currently working on ... -->
 - 🌱 Currently learning: Haskell; SIMD & working with vector intrinsics; distributed systems
-- 👯 I’m looking for work in **Backend Engineering** roles 
+<!-- - 👯 I’m looking for work in **Backend Engineering** roles -->
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: CFG parsing reduces to Boolean matrix multiplication [(Lee, 2002)](https://arxiv.org/abs/cs/0112018), meaning that the fastest parsing algorithms can be computed in less than O(n^3)!
 
