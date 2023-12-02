@@ -18,3 +18,5 @@ You can find more details about me and ways to reach out at [laurenar.net](https
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
 <!-- 📫 How to reach me: ... -->
+
+<!-- img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laurenarnett"/-->
