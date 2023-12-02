@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started: -->
 
-I graduated as a Computer Science major from Columbia University in 2019. I have been working as a Full-Stack Software Developer since then, using Java, Clojure, and ClojureScript. I'm currently in a batch at the [Recurse Center](https://www.recurse.com/), where I'm making lots of Haskell projects and trying out [IHP](https://ihp.digitallyinduced.com/).
+I graduated as a Computer Science major from Columbia University in 2019. I have been working as a Full-Stack Software Developer since then, using Clojure and ClojureScript. I'm currently in a batch at the [Recurse Center](https://www.recurse.com/), where I'm making lots of Haskell projects and trying out [IHP](https://ihp.digitallyinduced.com/).
 
 <!-- - 🔭 I’m currently working on ... -->
 - 🌱 Currently learning: Haskell; SIMD & working with vector intrinsics; distributed systems
